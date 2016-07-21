@@ -20,7 +20,7 @@ Code-School-Slides
 - [The Anatomy of Backbone.js Part 1](http://courseware.codeschool.com.s3.amazonaws.com/The_Anatomy_of_BackboneJS.pdf)
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 - [Real-time Web with Node.js](http://courseware.codeschool.com.s3.amazonaws.com/node_slides.pdf)
-- Node Design Patternse
+- Node Design Patterns
 - [The Magical Marvels of MongoDB](http://courseware.codeschool.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf)
 - [Building Blocks of Express.js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
 - [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
