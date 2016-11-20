@@ -29,6 +29,7 @@ Code-School-Slides
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
 - [ES2015: The Shape of JavaScript to come](http://courseware.codeschool.com/es2015-the-shape-of-javascript-to-come/all-levels.pdf)
 - [Powering Up With React](http://courseware.codeschool.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf)
+- [Angular2](file:///Users/jtingsanchali/Downloads/CodeSchool-AcceleratingThroughAngular2.pdf)
 
 # Ruby and Rails
 - Try Ruby
